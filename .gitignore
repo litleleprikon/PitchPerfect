@@ -6,8 +6,11 @@
 build/
 DerivedData/
 
+<<<<<<< HEAD
 .DS_Store
 
+=======
+>>>>>>> 9523c7ae6e099f3ac0064d57a795a1ccc6566f2f
 ## Various settings
 *.pbxuser
 !default.pbxuser
@@ -64,4 +67,8 @@ Carthage/Build
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
+<<<<<<< HEAD
 fastlane/test_output
+=======
+fastlane/test_output
+>>>>>>> 9523c7ae6e099f3ac0064d57a795a1ccc6566f2f

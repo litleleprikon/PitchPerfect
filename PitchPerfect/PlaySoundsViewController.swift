@@ -31,6 +31,7 @@ class PlaySoundsViewController: UIViewController {
     
     @IBAction func playSoundForButton(sender: UIButton) {
         print("Play Sound button pressed")
+
         setupAudio()
         switch (ButtonType(rawValue: sender.tag)!) {
         case .Slow:
